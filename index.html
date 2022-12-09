@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Verplichte metatags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+crossorigin="anonymous">
+<style>
+header{
+  background-color: purple;
+  width: 100%;
+  height: 200px;
+  padding-left: 500px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+h2{
+  padding-left: 150px;
+}
+body{
+background-color: green;
+}
+ul a{
+color: white;
+text-decoration: none;
+}
+li{
+display: inline-block;
+height: 52px;
+width: 120px;
+padding: 8px;
+text-align: center;
+color: white;
+border-left: 2px solid green;
+border-right: 1px solid green;
+background-color: olive;
+}
+li:hover{
+background-color: lightgreen;
+border-style: none;
+}
+footer {
+  width: 100%;
+  height: 150px;
+  background-color: blue;
+  font-family: cursive;
+  text-align: center;
+  padding-top: 10px;
+}
+img {
+width: 100%;
+height: auto;
+float: left;
+}
+</style>
+<title>Mijn pagina</title>
+</head>
+<body>
+  <div class="container-sm">
+  <header>
+    <h2>Index</h2>
+    <ul>
+    <li><a href="index.html">index</a></li>
+    <li><a href="overmij.html">overmij</a></li>
+    <li><a href="contact.html">contact</a></li>
+    </ul>
+  </header>
+  <p><b>Welkom in Leidschendam, hier is Westfield the Mall of Netherlands, hier kunt u shoppen waar je kan alles finden, veel winkellen die je kan niet vinden bij andere winkelcentrums.
+  <br>Hier kan je ook gratis parkeren</b></p>
+  <br>
+  <table style="width: 70%;" align="center";>
+  <tr>
+  <th><img src="foto1.jpg" width="33%"></th>
+  <th><img src="foto2.jpg" width="33%"></th>
+  <th><img src="foto3.jpg" width="33%"></th>
+</tr>
+  <tr>
+  <td><img src="foto4.jpg" width="33%"></td>
+  <td><img src="foto5.jpg" width="33%"></td>
+  <td><img src="foto6.jpg" width="33%"></td>
+  </tr>
+  <tr>
+  <td><img src="foto7.jpg" width="33%"></td>
+  <td><img src="foto8.jpg" width="33%"></td>
+  <td><img src="foto9.jpg" width="33%"></td>
+  </tr>
+  </table>
+</div>
+<footer>
+<p><strong> mail naar zaki_hoseini@yahoo.com </strong></p>
+</footer>
+</div>
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+crossorigin="anonymous">
+</script>
+</body>
+</html>
