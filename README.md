@@ -57,9 +57,9 @@ footer {
   <header>
     <h2>Overmij</h2>
     <ul>
-    <li><a href="index.html">index</a></li>
+    <li><a href="https://zaki-2020.github.io/indexles22/">index</a></li>
     <li><a href="overmij.html">overmij</a></li>
-    <li><a href="contact.html">contact</a></li>
+    <li><a href="https://zaki-2020.github.io/les22Contact/">contact</a></li>
     </ul>
   </header>
 <p>Mijn naam is Zaki Hoseini 28 jaar, geboren in Afghanistan en sinds 2010 woon ik in Nederland.<br>Ik heb verschillende banen gehad en Jumbo supermarkten is een van ze.<br>Momentieel heb ik twee banen mijn fulltime baan is DHL in Schiphol en ik heb nog een bijbaan van een paar uurtjes in de week bij een administratiekantoor.</p>
