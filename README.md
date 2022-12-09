@@ -11,7 +11,7 @@ crossorigin="anonymous">
 header{
   background-color: purple;
   width: 100%;
-  height: 200px;
+  height: 250px;
   padding-left: 500px;
   padding-top: 8px;
   padding-bottom: 8px;
