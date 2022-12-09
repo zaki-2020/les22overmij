@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Verplichte metatags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link
+href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
+integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+crossorigin="anonymous">
+<style>
+header{
+  background-color: purple;
+  width: 100%;
+  height: 200px;
+  padding-left: 500px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+h2{
+  padding-left: 150px;
+}
+body{
+background-color: lightblue;
+}
+ul a{
+color: white;
+text-decoration: none;
+}
+li{
+display: inline-block;
+height: 52px;
+width: 120px;
+padding: 8px;
+text-align: center;
+color: white;
+border-left: 2px solid green;
+border-right: 1px solid green;
+background-color: olive;
+}
+li:hover{
+background-color: lightgreen;
+border-style: none;
+}
+footer {
+  width: 100%;
+  height: 150px;
+  background-color: blue;
+  font-family: cursive;
+  text-align: center;
+  padding-top: 10px;
+}
+img {
+width: 100%;
+height: auto;
+float: left;
+}
+input[type="text"], input[type="email"], textarea, select, button{display: block;margin: 15px 0px;
+width: 400px;box-sizing: border-box;
+}
+textarea{height: 100px;padding: 5px 4px;
+border-radius: 4px; box-shadow: inset 2px 2px 5px lightgreen;}
+button{background-color: darkgreen;color: white;border-radius: 4px;}
+button:hover{
+background-color: green;
+border-style: none;
+}
+</style>
+</head>
+<body>
+  <div class="container-sm">
+  <header>
+    <h2>Contact</h2>
+    <ul>
+    <li><a href="index.html">index</a></li>
+    <li><a href="overmij.html">overmij</a></li>
+    <li><a href="contact.html">contact</a></li>
+    </ul>
+  </header>
+<form> <b>Contactformulier</b>
+<input type="text" placeholder="voornaam" />
+<input type="text" placeholder="achternaam" />
+<input type="email" placeholder="Uw e-mailadres" />
+<textarea placeholder="Uw boodschap"> </textarea>
+<button>Verzend</button>
+</form>
+</div>
+<footer>
+<p><strong>zaki_hoseini@yahoo.com</strong></p>
+</footer>
+</div>
+<script
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+crossorigin="anonymous">
+</script>
+</body>
+</html>
