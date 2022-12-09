@@ -12,7 +12,7 @@ crossorigin="anonymous">
 header{
   background-color: purple;
   width: 100%;
-  height: 100px;
+  height: 200px;
   padding-left: 500px;
   padding-top: 8px;
   padding-bottom: 8px;
