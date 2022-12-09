@@ -55,7 +55,6 @@ footer {
 <body>
   <div class="container-sm">
   <header>
-    <h2>Overmij</h2>
     <ul>
     <li><a href="https://zaki-2020.github.io/indexles22/">index</a></li>
     <li><a href="https://zaki-2020.github.io/les22overmij/">overmij</a></li>
